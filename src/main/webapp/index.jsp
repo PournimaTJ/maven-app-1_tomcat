@@ -89,7 +89,7 @@
     </div>
     <div class="image-container">
         <!-- Image at the bottom right of the page -->
-        <img src="https://drive.google.com/file/d/13RzMk1btP9gDdjq_Hd5gKyCz_99EMSpj/view?usp=drive_link" alt="Profile Image" class="profile-image">
+        <img src="https://drive.google.com/file/d/1GkHc3GuJxpoQgteNdEh3gEw6CN5zlyhC/view?usp=drive_link" alt="Profile Image" class="profile-image">
     </div>
     <div class="copyright">
         <span class="icon">&copy;</span> Kastro
